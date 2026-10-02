@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-f39c12?style=for-the-badge&logo=vercel&logoColor=white)](https://cocktails-gsap-psi.vercel.app/#contact)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-f39c12?style=for-the-badge&logo=vercel&logoColor=white)](https://cocktails-gsap-psi.vercel.app)
   [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
   [![Vite](https://img.shields.io/badge/Vite%208-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
   [![GSAP](https://img.shields.io/badge/GSAP%203-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="https://cocktails-gsap-psi.vercel.app/#contact"><strong>Explore the Live Experience »</strong></a>
+    <a href="https://cocktails-gsap-psi.vercel.app"><strong>Explore the Live Experience »</strong></a>
   </p>
 </div>
 
@@ -28,7 +28,7 @@
 ## 🚀 Live Demo
 
 Experience the live application deployed on Vercel:  
-🔗 **[https://cocktails-gsap-psi.vercel.app/#contact](https://cocktails-gsap-psi.vercel.app/#contact)**
+🔗 **[https://cocktails-gsap-psi.vercel.app](https://cocktails-gsap-psi.vercel.app)**
 
 ---
 
