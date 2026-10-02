@@ -12,6 +12,10 @@ const navLinks = [
        title: "The Art",
     },
     {
+      id: "menu",
+      title: "Menu"
+    },
+    {
        id: "contact",
        title: "Contact",
     },
